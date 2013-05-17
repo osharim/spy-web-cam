@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fotografiador</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="capturar">Capturar</string>
+    <string name="ip_servidor">IP del Servidor</string>
+    <string name="darks">Darks</string>
+
+</resources>
